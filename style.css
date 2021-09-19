@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#result_gesture_name2  
+{
+  color: black;
+}
+.guesture_name
+{
+  font-size: 40px;
+}
+.guesture
+{
+  font-size:48px;
+}
+
+.heading 
+{
+  font-size:30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: crimson;
+  letter-spacing:10px;
+  border-radius:10;
+}
+
+label 
+{
+  font-size:15px;
+  color: cyan;
+  letter-spacing:2px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding:6px;
+  background-color: white;
+}
